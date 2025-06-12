@@ -1,7 +1,3 @@
-Here is a professionally formatted and complete version of your network project, styled exactly like your previous **Project #6**, now titled:
-
----
-
 ## 🏥 Project #7 – Secure Healthcare Network Design & Implementation for Melbourne Health Services
 
 This project entails the **secure design and implementation of a multi-site network infrastructure** for *Melbourne Health Services* across two locations. The network supports around **600+ users**, with a strong focus on **Confidentiality, Integrity, and Availability (CIA)** using **Cisco technologies**.
